@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lruthotto/OED.jl.svg?branch=master)](https://travis-ci.org/lruthotto/OED.jl)
+
 # OED.jl
 jInv add-on for optimal experimental design with state constraints
 
